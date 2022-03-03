@@ -1,0 +1,32 @@
+
+ *{
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+
+}
+
+body{
+    background-image: url(../fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: rgb(68, 140, 182);
+    align-items: center;
+    transition: 3s ease-out all;
+    padding: 20px;
+    
+    
+}
+h3{
+    text-align: center;
+    transition: 3s ease-out all;
+    padding: 10px;
+    
+    
+}
